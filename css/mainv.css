@@ -1,0 +1,11 @@
+#colorv{
+margin-right: 200px;
+    margin-left: 200px;
+}
+
+@media screen and (max-width: 40.625rem){
+#colorv {
+
+margin-left:20px;
+}
+}
