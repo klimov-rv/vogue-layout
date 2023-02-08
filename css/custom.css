@@ -938,9 +938,10 @@ header.header {
     }
 
     .content-block__biglist ol li {
-        margin-bottom: 14px;
+        font-size: 15px;
         line-height: 1.3em;
         align-items: flex-start;
+        margin-bottom: 14px;
     }
 
     .content-block__biglist ol li strong {
