@@ -4,7 +4,7 @@
     --bigger-font-size: 20px;
 }
 
-header {
+header.header {
     padding-bottom: 0px;
 }
 
@@ -938,16 +938,17 @@ header {
     }
 
     .content-block__biglist ol li {
-        margin-bottom: 15px;
-        line-height: 1.2em;
+        margin-bottom: 14px;
+        line-height: 1.3em;
+        align-items: flex-start;
+    }
+
+    .content-block__biglist ol li strong {
+        font-size: 17px;
     }
 
     .content-inner p {
         margin-bottom: 19px;
-    }
-
-    .content-block__biglist ol li {
-        font-size: 16px;
     }
 
     .content-block__biglist ol li::before {
