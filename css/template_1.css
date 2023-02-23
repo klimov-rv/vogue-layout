@@ -742,7 +742,7 @@ overflow: hidden;
 .news-block__itemslist .content-block__col-46 .news-block__bg {
 	position: relative;
 	height: 0;
-	background: url("/images/news/n1.jpg") no-repeat center center/cover transparent;
+	background: url("../images/news/n1.jpg") no-repeat center center/cover transparent;
 	padding: 70px 60px;
 	color: white;
 	padding-bottom: 47%;
@@ -751,7 +751,7 @@ overflow: hidden;
 .news-block__itemslist .content-block__col-26 .news-block__bg {
 	position: relative;
 	height: 0;
-	background: url("/images/news/n1.jpg") no-repeat center center/cover transparent;
+	background: url("../images/news/n1.jpg") no-repeat center center/cover transparent;
 	padding: 35px 25px;
 	color: white;
 	padding-bottom: 47.44%;
@@ -1050,18 +1050,18 @@ overflow: hidden;
 
 .tallphoto {
 
-	background: url("/images/cooperation-photo.jpg") no-repeat center center/cover transparent;
+	background: url("../images/cooperation-photo.jpg") no-repeat center center/cover transparent;
 	height: 100%;
 	width: 100%;
 	min-height: 430px;
 }
 
 .about-photo-1 {
-	background-image: url("/images/about-us-1.jpg");
+	background-image: url("../images/about-us-1.jpg");
 }
 
 .about-photo-2 {
-	background-image: url("/images/about-us-2.jpg");
+	background-image: url("../images/about-us-2.jpg");
 }
 
 .cooperation-page .content-block__col-inner {
@@ -1081,31 +1081,31 @@ overflow: hidden;
 }
 
 .promo-page {
-	background: url("/images/reservation-bgimg.jpg") no-repeat center center/cover transparent;
+	background: url("../images/reservation-bgimg.jpg") no-repeat center center/cover transparent;
 }
 
 .promo-page__reservation {
-	background-image: url("/images/reservation-bgimg.jpg");
+	background-image: url("../images/reservation-bgimg.jpg");
 }
 
 .promo-page__complex-service {
-	background-image: url("/images/complex_servise_bg.jpg");
+	background-image: url("../images/complex_servise_bg.jpg");
 }
 
 .promo-page__medical {
-	background-image: url("/images/transfer_bg.jpg");
+	background-image: url("../images/transfer_bg.jpg");
 }
 
 .promo-page__transfer {
-	background-image: url("/images/transfer_bg.jpg");
+	background-image: url("../images/transfer_bg.jpg");
 }
 
 .promo-page__visas {
-	background-image: url("/images/promo_visas_bg.jpg");
+	background-image: url("../images/promo_visas_bg.jpg");
 }
 
 .promo-page__aboutus {
-	background-image: url("/images/about-us-bg.jpg");
+	background-image: url("../images/about-us-bg.jpg");
 }
 
 .promo-page+.block_call-form .call-form-container {
@@ -1124,7 +1124,7 @@ overflow: hidden;
 .styled-hr::before {
 	content: "";
 	display: block;
-	background: url("/images/icon-styledht-bookmark.svg") no-repeat center center/auto #FD780F;
+	background: url("../images/icon-styledht-bookmark.svg") no-repeat center center/auto #FD780F;
 	width: var(--styled-hr-dem);
 	height: var(--styled-hr-dem);
 	flex: 0 0 var(--styled-hr-dem);
@@ -1134,15 +1134,15 @@ overflow: hidden;
 }
 
 .promo-page__medical .styled-hr::before {
-	background-image: url("/images/icon-dollar-sign.svg");
+	background-image: url("../images/icon-dollar-sign.svg");
 }
 
 .promo-page__transfer .styled-hr::before {
-	background-image: url("/images/icon-globe.svg");
+	background-image: url("../images/icon-globe.svg");
 }
 
 .promo-page__visas .styled-hr::before {
-	background-image: url("/images/icon-thumbs-up.svg");
+	background-image: url("../images/icon-thumbs-up.svg");
 }
 
 .promo-page__text {
@@ -1215,7 +1215,7 @@ overflow: hidden;
 .icons-flexlist a::before {
 	content: "";
 	display: block;
-	background: url("/images/icon-home.svg") no-repeat center center/auto #FD780F;
+	background: url("../images/icon-home.svg") no-repeat center center/auto #FD780F;
 	width: var(--styled-hr-dem);
 	height: var(--styled-hr-dem);
 	flex: 0 0 var(--styled-hr-dem);
@@ -1239,23 +1239,23 @@ overflow: hidden;
 }
 
 .icons-flexlist .icon-globe::before {
-	background-image: url("/images/icon-globe.svg");
+	background-image: url("../images/icon-globe.svg");
 }
 
 .icons-flexlist .icon-dollar-sign::before {
-	background-image: url("/images/icon-dollar-sign.svg");
+	background-image: url("../images/icon-dollar-sign.svg");
 }
 
 .icons-flexlist .icon-bookmark::before {
-	background-image: url("/images/icon-bookmark.svg");
+	background-image: url("../images/icon-bookmark.svg");
 }
 
 .icons-flexlist .icon-thumbs-up::before {
-	background-image: url("/images/icon-thumbs-up.svg");
+	background-image: url("../images/icon-thumbs-up.svg");
 }
 
 .icons-flexlist .icon-home::before {
-	background-image: url("/images/icon-home.svg");
+	background-image: url("../images/icon-home.svg");
 }
 
 .icons-flexlist__info .arr-right {
@@ -1265,7 +1265,7 @@ overflow: hidden;
 .icons-flexlist__info .arr-right::after {
 	content: "";
 	padding-right: 45px;
-	background: url("/images/arr-right.svg") no-repeat right center/auto transparent;
+	background: url("../images/arr-right.svg") no-repeat right center/auto transparent;
 	background-position: 50% center;
 	transition: .3s all;
 
@@ -1304,92 +1304,92 @@ overflow: hidden;
 .promo-page__flags .country-flag {
 	line-height: 1.1em;
 	padding: 13px 0 13px 61px;
-	background: url("/images/flags/flag-ENG.svg") no-repeat left center/43px transparent;
+	background: url("../images/flags/flag-ENG.svg") no-repeat left center/43px transparent;
 
 }
 
 .country-flag.flag-ENG {
-	background-image: url("/images/flags/flag-ENG.svg");
+	background-image: url("../images/flags/flag-ENG.svg");
 }
 
 .country-flag.flag-BALI {
-	background-image: url("/images/flags/flag-BALI.svg");
+	background-image: url("../images/flags/flag-BALI.svg");
 }
 
 .country-flag.flag-HUN {
-	background-image: url("/images/flags/flag-HUN.svg");
+	background-image: url("../images/flags/flag-HUN.svg");
 }
 
 .country-flag.flag-ITA {
-	background-image: url("/images/flags/flag-ITA.svg");
+	background-image: url("../images/flags/flag-ITA.svg");
 }
 
 .country-flag.flag-SPA {
-	background-image: url("/images/flags/flag-SPA.svg");
+	background-image: url("../images/flags/flag-SPA.svg");
 }
 
 .country-flag.flag-IND {
-	background-image: url("/images/flags/flag-IND.svg");
+	background-image: url("../images/flags/flag-IND.svg");
 }
 
 .country-flag.flag-GER {
-	background-image: url("/images/flags/flag-GER.svg");
+	background-image: url("../images/flags/flag-GER.svg");
 }
 
 .country-flag.flag-POL {
-	background-image: url("/images/flags/flag-POL.svg");
+	background-image: url("../images/flags/flag-POL.svg");
 }
 
 .country-flag.flag-OAE {
-	background-image: url("/images/flags/flag-OAE.svg");
+	background-image: url("../images/flags/flag-OAE.svg");
 }
 
 .country-flag.flag-MEX {
-	background-image: url("/images/flags/flag-MEX.svg");
+	background-image: url("../images/flags/flag-MEX.svg");
 }
 
 .country-flag.flag-MOR {
-	background-image: url("/images/flags/flag-MOR.svg");
+	background-image: url("../images/flags/flag-MOR.svg");
 }
 
 .country-flag.flag-LAT {
-	background-image: url("/images/flags/flag-LAT.svg");
+	background-image: url("../images/flags/flag-LAT.svg");
 }
 
 .country-flag.flag-CYP {
-	background-image: url("/images/flags/flag-CYP.svg");
+	background-image: url("../images/flags/flag-CYP.svg");
 }
 
 .country-flag.flag-CAN {
-	background-image: url("/images/flags/flag-CAN.svg");
+	background-image: url("../images/flags/flag-CAN.svg");
 }
 
 .country-flag.flag-SLO {
-	background-image: url("/images/flags/flag-SLO.svg");
+	background-image: url("../images/flags/flag-SLO.svg");
 }
 
 .country-flag.flag-SG {
-	background-image: url("/images/flags/flag-SG.svg");
+	background-image: url("../images/flags/flag-SG.svg");
 }
 
 .country-flag.flag-SAU {
-	background-image: url("/images/flags/flag-SAU.svg");
+	background-image: url("../images/flags/flag-SAU.svg");
 }
 
 .country-flag.flag-FRA {
-	background-image: url("/images/flags/flag-FRA.svg");
+	background-image: url("../images/flags/flag-FRA.svg");
 }
 
 .country-flag.flag-TAI {
-	background-image: url("/images/flags/flag-TAI.svg");
+	background-image: url("../images/flags/flag-TAI.svg");
 }
 
 .country-flag.flag-USA {
-	background-image: url("/images/flags/flag-USA.svg");
+	background-image: url("../images/flags/flag-USA.svg");
 }
 
 .country-flag.flag-SRI {
-	background-image: url("/images/flags/flag-SRI.svg");
+	background-image: url("../images/flags/flag-SRI.svg");
 }
 
 .main_title h1,
@@ -1607,15 +1607,15 @@ flex-wrap: wrap;
 .promo-page__whyus .whyus__icon {
 	height: 40px;
 	width: 40px;
-	background: url("/images/icon-aboutus-1.svg") no-repeat center center/auto transparent;
+	background: url("../images/icon-aboutus-1.svg") no-repeat center center/auto transparent;
 }
 
 .aboutus__icon-item:nth-child(2) .aboutus__icon {
-	background-image: url("/images/icon-aboutus-2.svg");
+	background-image: url("../images/icon-aboutus-2.svg");
 }
 
 .aboutus__icon-item:nth-child(3) .aboutus__icon {
-	background-image: url("/images/icon-aboutus-3.svg");
+	background-image: url("../images/icon-aboutus-3.svg");
 }
 
 .promo-page__whyus .whyus__title {
@@ -1634,28 +1634,28 @@ flex-wrap: wrap;
 .whyus__icon-item .whyus__icon {
 	height: 70px;
 	width: 70px;
-	background: url("/images/whyus1.svg") no-repeat center center/70px transparent;
+	background: url("../images/whyus1.svg") no-repeat center center/70px transparent;
 	margin-bottom: 15px;
 }
 
 .whyus__icon-item:nth-child(2) .whyus__icon {
-	background-image: url("/images/whyus2.svg");
+	background-image: url("../images/whyus2.svg");
 }
 
 .whyus__icon-item:nth-child(3) .whyus__icon {
-	background-image: url("/images/whyus3.svg");
+	background-image: url("../images/whyus3.svg");
 }
 
 .whyus__icon-item:nth-child(4) .whyus__icon {
-	background-image: url("/images/whyus4.svg");
+	background-image: url("../images/whyus4.svg");
 }
 
 .whyus__icon-item:nth-child(5) .whyus__icon {
-	background-image: url("/images/whyus5.svg");
+	background-image: url("../images/whyus5.svg");
 }
 
 .whyus__icon-item:nth-child(6) .whyus__icon {
-	background-image: url("/images/whyus6.svg");
+	background-image: url("../images/whyus6.svg");
 }
 
 
@@ -1975,7 +1975,7 @@ flex-wrap: wrap;
 	}
 
 	.styled-hr::before {
-		background: url(/images/icon-styledht-bookmark.svg) no-repeat center center/18px #FD780F;
+		background: url(../images/icon-styledht-bookmark.svg) no-repeat center center/18px #FD780F;
 		width: var(--styled-hr-dem);
 		height: var(--styled-hr-dem);
 		flex: 0 0 var(--styled-hr-dem);
@@ -2139,7 +2139,7 @@ flex-wrap: wrap;
 	}
 
 	.styled-hr::before {
-		background: url(/images/icon-styledht-bookmark.svg) no-repeat center center/16px #FD780F;
+		background: url(../images/icon-styledht-bookmark.svg) no-repeat center center/16px #FD780F;
 		width: var(--styled-hr-dem);
 		height: var(--styled-hr-dem);
 		flex: 0 0 var(--styled-hr-dem);
